@@ -394,7 +394,6 @@ pkg install nmap
 **Kutty**  
 [@Kutty](https://kuttythedarkhacker.netlify.app/)
 
-<br clear="left"/>
 
 **View**
 [@view About Us](https://thedarkdevil.netlify.app/)
