@@ -135,7 +135,7 @@ Make sure all the [required](Contact By Admin & Get Link Or Using GitHub) softwa
 
 Open terminal and paste the following commands : 
 ```
-Once Admin Send The Link After Paste The Link Or Use GitHub Link
+https://github.com/alphamen01-hack/Pegasus-Pro.git
 ```
 ```
 cd Pegasus-Pro/
@@ -153,7 +153,7 @@ Make sure all the [required](Contact By Admin & Get Link Or Using GitHub) softwa
 
 Open terminal and paste the following commands : 
 ```
-Once Admin Send The Link After Paste The Link Or Use GitHub Link
+https://github.com/alphamen01-hack/Pegasus-Pro.git
 ```
 ```
 cd Pegasus-Pro/
@@ -414,7 +414,7 @@ pkg install nmap
   <a href="https://kuttythedarkhacker.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-Visit-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=black">
   </a>
-
+  <br>
   <!-- Neon Green Website Button -->
   <a href="https://thedarkdevil.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-Visit-00ff6a?style=for-the-badge&logo=google-chrome&logoColor=black">
