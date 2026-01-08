@@ -20,6 +20,14 @@ The goal of this project is to make penetration testing and vulnerability assess
 # Screenshots
 
 ![Screenshot Page 1](docs/Pegasus-Pro.png)
+
+## Authentication Required ⚡🎯
+* Auth Token Get by Admin Contact 👇🏻
+
+[![Instagram DM](https://img.shields.io/badge/INSTAGRAM-DM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dark_cyber.in/)
+[![WhatsApp Chat](https://img.shields.io/badge/WHATSAPP-MESSAGE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/17012645961)
+
+
 ![Screenshot Page 2](docs/Pegasus-Pro(1).png)
 ![Screenshot Page 3](docs/Pegasus-Pro(2).png)
 ![Screenshot Page 4](docs/Pegasus-Pro(3).png)
