@@ -343,43 +343,43 @@ pkg install nmap
 
 * Pegasus-Pro is a controlled cybersecurity research framework.
 
-##This software is intended ONLY for:
+## This software is intended ONLY for:
 
 * Cybersecurity education
 * Ethical hacking & red-team simulations
 * Digital forensics training
 * Authorized penetration testing
 
-##🚫 ZERO TOLERANCE FOR MISUSE
+## 🚫 ZERO TOLERANCE FOR MISUSE
 
 * ❌ Illegal hacking, spying, surveillance, stalking, data theft, or privacy invasion is STRICTLY FORBIDDEN.
 * ❌ No authorization = No usage. No excuses.
 
-##⚖️ USER ASSUMES ALL RESPONSIBILITY
+## ⚖️ USER ASSUMES ALL RESPONSIBILITY
 
-###The developer(s) of Pegasus-Pro:
+### The developer(s) of Pegasus-Pro:
 
 * Do NOT encourage cybercrime
 * Accept ZERO liability for misuse
 * Are NOT responsible for damages, losses, or legal consequences
 
-###👉 YOU alone are accountable for your actions.
+### 👉 YOU alone are accountable for your actions.
 
-##🔐 AUTHORIZATION IS MANDATORY
+## 🔐 AUTHORIZATION IS MANDATORY
 
-###Use Pegasus-Pro ONLY on:
+### Use Pegasus-Pro ONLY on:
 
 * Systems you own
 * Systems with explicit written permission
 * Unauthorized use may result in serious legal consequences.
 
-##🧠 ETHICAL WARNING
+## 🧠 ETHICAL WARNING
 
-###This tool exists to understand, defend, and secure systems — not to harm.
+### This tool exists to understand, defend, and secure systems — not to harm.
 
 * Ethical hacking starts with permission. Always.
 
-##✅ ACCEPTANCE NOTICE
+## ✅ ACCEPTANCE NOTICE
 
 * By accessing, installing, or using Pegasus-Pro, you automatically agree to this disclaimer.
 * If you do not agree — DO NOT USE THIS SOFTWARE.
@@ -391,15 +391,18 @@ pkg install nmap
 <img src="images/avatar.png" width="90" align="left" />
 
 **Kutty**  
-[@Kutty](https://www.instagram.com/dark_cyber.in?igsh=b2J0b3F4YnBkd2ph)
+[@Kutty](https://kuttythedarkhacker.netlify.app/)
+
+**View**
+[@view About Us](https://thedarkdevil.netlify.app/)
 
 <br clear="left"/>
 
 ---
 
-## ❤️ Support Me
+## ❤️ Support 
 
-Support me by following my Instagram page:
+Support by following my Instagram page:
 
 <p align="left">
   <a href="https://www.instagram.com/dark_cyber.in?igsh=b2J0b3F4YnBkd2ph" target="_blank">
