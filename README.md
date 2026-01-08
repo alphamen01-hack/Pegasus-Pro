@@ -1,17 +1,10 @@
 <div align="center">
   
-# PhoneSploit Pro
+# Pegasus-Pro
   
-### PhoneSploit with Metasploit Integration.
+### Pegasus-Pro with Metasploit Integration.
 
-An all-in-one hacking tool written in `Python` to remotely exploit Android devices using `ADB` (Android Debug Bridge) and `Metasploit-Framework`.
-
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/AzeemIdrisi/PhoneSploit-Pro)
-![Python](https://img.shields.io/badge/python-v3.10%2B-blue)
-![GitHub Release Date](https://img.shields.io/github/release-date/AzeemIdrisi/PhoneSploit-Pro?logo=github)
-![GitHub last commit](https://img.shields.io/github/last-commit/AzeemIdrisi/PhoneSploit-Pro?logo=github)
-![GitHub Repo stars](https://img.shields.io/github/stars/AzeemIdrisi/PhoneSploit-Pro?style=social)
-![GitHub forks](https://img.shields.io/github/forks/AzeemIdrisi/PhoneSploit-Pro?style=social)
+#All Below Content written By Kutty More Content details get By Web 
 
 </div>
 
@@ -22,7 +15,7 @@ This tool can automatically __Create__, __Install__, and __Run__ payload on the 
 The goal of this project is to make penetration testing and vulnerability assessment on Android devices easy. Now you don't have to learn commands and arguments, PhoneSploit Pro does it for you. Using this tool, you can test the security of your Android devices easily.
 
 > [!TIP]
-> __PhoneSploit Pro__ can also be used as a complete ADB Toolkit to perform various operations on Android devices over Wi-Fi as well as USB. 
+> __Pegasus Pro__ can also be used as a complete ADB Toolkit to perform various operations on Android devices over Wi-Fi as well as USB. 
 
 # Screenshots
 
@@ -98,6 +91,7 @@ The goal of this project is to make penetration testing and vulnerability assess
 * Stream Microphone Audio
 * Record Device Audio
 * Stream Device Audio
+* All Above Verion Used In v.13 Version 
 
 # Requirements  
 * [`python3`](https://www.python.org/) : Python 3.10 or Newer
@@ -108,51 +102,51 @@ The goal of this project is to make penetration testing and vulnerability assess
 * [`nmap`](https://nmap.org/) : Nmap
 
 
-# Run PhoneSploit Pro 
+# Run Pegasus Pro 
 
-__PhoneSploit Pro__ does not need any installation and runs directly using `python3`
+__Pegasus Pro__ does not need any installation and runs directly using `python3`
 
 > [!IMPORTANT]
-> **PhoneSploit Pro** requires Python version __3.10 or higher__. Please update Python before running the program.
+> **Pegasus Pro** requires Python version __1.13 or higher__. Please update Python before running the program.
 
 #### On Linux / macOS :
 
-Make sure all the [required](https://github.com/AzeemIdrisi/PhoneSploit-Pro#requirements) software are installed.
+Make sure all the [required](Contact By Admin & Get Link Or Using GitHub) software are installed.
 
 Open terminal and paste the following commands : 
 ```
-git clone https://github.com/AzeemIdrisi/PhoneSploit-Pro.git
+Once Admin Send The Link After Paste The Link Or Use GitHub Link
 ```
 ```
-cd PhoneSploit-Pro/
+cd Pegasus-Pro/
 ```
 ```
 pip install -r requirements.txt
 ```
 ```
-python3 phonesploitpro.py
+python3 Pegasus-Pro.v.13.py
 ```
 #### On Windows :
 
-Make sure all the [required](https://github.com/AzeemIdrisi/PhoneSploit-Pro#requirements) software are installed.
+Make sure all the [required](Contact By Admin & Get Link Or Using GitHub) software are installed.
 
 
 Open terminal and paste the following commands : 
 ```
-git clone https://github.com/AzeemIdrisi/PhoneSploit-Pro.git
+Once Admin Send The Link After Paste The Link Or Use GitHub Link
 ```
 ```
-cd PhoneSploit-Pro/
+cd Pegasus-Pro/
 ```
 ```
 pip install -r requirements.txt
 ```
 1. Download and extract latest `platform-tools` from [here](https://developer.android.com/studio/releases/platform-tools.html#downloads).
 
-2. Copy all files from the extracted `platform-tools` or `adb` directory to __PhoneSploit-Pro__ directory and then run :
+2. Copy all files from the extracted `platform-tools` or `adb` directory to __Pegasus-Pro__ directory and then run :
 
 ```
-python phonesploitpro.py
+python Pegasus-Pro.v.13.py
 ```
 
 # Tutorial
@@ -192,14 +186,14 @@ adb tcpip 5555
 7. Now you can connect the Android Phone with the computer over Wi-Fi using `adb`.
 8. Disconnect the USB cable.
 9. Go to `Settings` >  `About Phone` > `Status` > `IP address` and note the phone's `IP Address`.
-10. Run __PhoneSploit Pro__ and select `Connect a device` and enter the target's `IP Address` to connect over Wi-Fi.
+10. Run __Pegasus-Pro__ and select `Connect a device` and enter the target's `IP Address` to connect over Wi-Fi.
 
 
 
 ## Connecting the Android phone for the next time
 
 1. Connect your Android device and host computer to a common Wi-Fi network.
-2. Run __PhoneSploit Pro__ and select `Connect a device` and enter the target's `IP Address` to connect over Wi-Fi.
+2. Run __Pegasus-Pro__ and select `Connect a device` and enter the target's `IP Address` to connect over Wi-Fi.
 
 
 # This tool is tested on
@@ -214,7 +208,7 @@ adb tcpip 5555
 -  ✅ Termux (Android)
 
 > [!NOTE]
-> All the new features are primarily tested on **Linux**, thus **Linux** is recommended for running PhoneSploit Pro.
+> All the new features are primarily tested on **Linux**, thus **Linux** is recommended for running Pegasus Pro.
 Some features might not work properly on Windows.
 
 # Installing ADB 
@@ -289,7 +283,7 @@ or Follow this link : [Click Here](https://docs.metasploit.com/docs/using-metasp
 
 Visit the `scrcpy` GitHub page for latest installation instructions : [Click Here](https://github.com/Genymobile/scrcpy#get-the-app)
 
-**On Windows** : Copy all the files from the extracted **scrcpy** folder to **PhoneSploit-Pro** folder.
+**On Windows** : Copy all the files from the extracted **scrcpy** folder to **Pegasus-Pro** folder.
 
 > [!IMPORTANT]  
 > If `scrcpy` is not available for your Linux distro like **Kali Linux**, then you can either manually install it : [Manual Guide](https://github.com/Genymobile/scrcpy/blob/master/doc/linux.md),
@@ -347,33 +341,72 @@ pkg install nmap
 
 # Disclaimer
 
-* Neither the project nor its developer promote any kind of illegal activity and are not responsible for any misuse or damage caused by this project.
-* This project is for educational purpose only.
-* Please do not use this tool on other people's devices without their permission.
-* Do not use this tool to harm others.
-* Use this project responsibly on your own devices only.
-* It is the end user's responsibility to obey all applicable local, state, federal, and international laws.
+* Pegasus-Pro is a controlled cybersecurity research framework.
+
+##This software is intended ONLY for:
+
+* Cybersecurity education
+* Ethical hacking & red-team simulations
+* Digital forensics training
+* Authorized penetration testing
+
+##🚫 ZERO TOLERANCE FOR MISUSE
+
+* ❌ Illegal hacking, spying, surveillance, stalking, data theft, or privacy invasion is STRICTLY FORBIDDEN.
+* ❌ No authorization = No usage. No excuses.
+
+##⚖️ USER ASSUMES ALL RESPONSIBILITY
+
+###The developer(s) of Pegasus-Pro:
+
+* Do NOT encourage cybercrime
+* Accept ZERO liability for misuse
+* Are NOT responsible for damages, losses, or legal consequences
+
+###👉 YOU alone are accountable for your actions.
+
+##🔐 AUTHORIZATION IS MANDATORY
+
+###Use Pegasus-Pro ONLY on:
+
+* Systems you own
+* Systems with explicit written permission
+* Unauthorized use may result in serious legal consequences.
+
+##🧠 ETHICAL WARNING
+
+###This tool exists to understand, defend, and secure systems — not to harm.
+
+* Ethical hacking starts with permission. Always.
+
+##✅ ACCEPTANCE NOTICE
+
+* By accessing, installing, or using Pegasus-Pro, you automatically agree to this disclaimer.
+* If you do not agree — DO NOT USE THIS SOFTWARE.
 
 
-# Developer
+# 🔗 Developer
+---
 
-<a href="https://github.com/azeemidrisi/">
-<!--   <img src="https://contrib.rocks/image?repo=azeemidrisi/phonesploit-pro" /> -->
- <img width="150px" src=https://github.com/AzeemIdrisi/PhoneSploit-Pro/assets/112647789/a5fa646c-93a2-460f-bcb7-528fedb147e9 />
+<img src="images/avatar.png" width="90" align="left" />
 
-</a>
+**Kutty**  
+[@Kutty](https://www.instagram.com/dark_cyber.in?igsh=b2J0b3F4YnBkd2ph)
 
+<br clear="left"/>
 
-**Azeem Idrisi** - [@AzeemIdrisi](https://github.com/azeemidrisi/)
- 
+---
 
-# Support Me
-If you like my work you can support me via :
+## ❤️ Support Me
 
-<a href="https://paypal.me/AzeemIdrisi" target="_blank"> <kbd> <img
-        src="https://github.com/AzeemIdrisi/AzeemIdrisi/blob/main/docs/paypal-button-blue.png" alt="PayPal"
-        width="147"></a> <a href="https://www.buymeacoffee.com/AzeemIdrisi" target="_blank"> <kbd> <img src="https://github.com/AzeemIdrisi/AzeemIdrisi/blob/main/docs/default-yellow.png" alt="Buy Me A Coffee" width="200"></a>
+Support me by following my Instagram page:
 
-<hr>
+<p align="left">
+  <a href="https://www.instagram.com/dark_cyber.in?igsh=b2J0b3F4YnBkd2ph" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-ff2d55?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
 
-Copyright © 2024 Mohd Azeem (github.com/AzeemIdrisi)
+---
+
+© 2025 kutty

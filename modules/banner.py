@@ -1,29 +1,3 @@
-"""
-    COPYRIGHT DISCLAIMER
-
-    Script : PhoneSploit Pro - All in One Android Hacking ADB Toolkit  
-
-    Copyright (C) 2023  Mohd Azeem (github.com/AzeemIdrisi)
-
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <https://www.gnu.org/licenses/>.
-
-    Forking and modifying are allowed, but credit must be given to the
-    original developer, [Mohd Azeem (github.com/AzeemIdrisi)], and copying the code
-    is not permitted without permission.
-
-    For any queries, Contact me at : azeemidrisi@protonmail.com
-"""
 
 from modules import color
 
@@ -58,8 +32,8 @@ menu3 = f"""
     {color.WHITE}31. {color.GREEN}Unlock Device               {color.WHITE}36. {color.GREEN}Extract APK from Installed App      {color.WHITE}41. {color.GREEN}Record Mic Audio
     {color.WHITE}32. {color.GREEN}Lock Device                 {color.WHITE}37. {color.GREEN}Stop ADB Server                     {color.WHITE}42. {color.GREEN}Listen Device Audio
     {color.WHITE}33. {color.GREEN}Dump All SMS                {color.WHITE}38. {color.GREEN}Power Off Device                    {color.WHITE}43. {color.GREEN}Record Device Audio
-    {color.WHITE}34. {color.GREEN}Dump All Contacts           {color.WHITE}39. {color.GREEN}Use Keycodes (Control Device)       {color.WHITE}44. {color.GREEN}Update PhoneSploit-Pro
-    {color.WHITE}35. {color.GREEN}Dump Call Logs              {color.WHITE}40. {color.GREEN}Listen Mic Audio                    {color.WHITE}45. {color.GREEN}Visit PhoneSploit-Pro on GitHub
+    {color.WHITE}34. {color.GREEN}Dump All Contacts           {color.WHITE}39. {color.GREEN}Use Keycodes (Control Device)       {color.WHITE}44. {color.GREEN}Update Pegasus-Pro
+    {color.WHITE}35. {color.GREEN}Dump Call Logs              {color.WHITE}40. {color.GREEN}Listen Mic Audio                    {color.WHITE}45. {color.GREEN}Visit Pegasus-Pro 
 
 
    {color.YELLOW} 
@@ -92,92 +66,116 @@ Use 'Ctrl + C' to stop at any point
 
 banner2 = f"""
 
-        ░█▀▀█ █──█ █▀▀█ █▀▀▄ █▀▀ ░█▀▀▀█ █▀▀█ █── █▀▀█ ─▀─ ▀▀█▀▀ 　 ░█▀▀█ █▀▀█ █▀▀█ 
-        ░█▄▄█ █▀▀█ █──█ █──█ █▀▀ ─▀▀▀▄▄ █──█ █── █──█ ▀█▀ ──█── 　 ░█▄▄█ █▄▄▀ █──█ 
-        ░█─── ▀──▀ ▀▀▀▀ ▀──▀ ▀▀▀ ░█▄▄▄█ █▀▀▀ ▀▀▀ ▀▀▀▀ ▀▀▀ ──▀── 　 ░█─── ▀─▀▀ ▀▀▀▀
+██████╗ ███████╗ ██████╗  █████╗ ███████╗██╗   ██╗███████╗      ██████╗ ██████╗  ██████╗ 
+██╔══██╗██╔════╝██╔════╝ ██╔══██╗██╔════╝██║   ██║██╔════╝      ██╔══██╗██╔══██╗██╔═══██╗
+██████╔╝█████╗  ██║  ███╗███████║███████╗██║   ██║███████╗█████╗██████╔╝██████╔╝██║   ██║
+██╔═══╝ ██╔══╝  ██║   ██║██╔══██║╚════██║██║   ██║╚════██║╚════╝██╔═══╝ ██╔══██╗██║   ██║
+██║     ███████╗╚██████╔╝██║  ██║███████║╚██████╔╝███████║      ██║     ██║  ██║╚██████╔╝
+╚═╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝      ╚═╝     ╚═╝  ╚═╝ ╚═════╝ 
+                                                                                       
 
 
-            {color.RED}{version}{color.WHITE}            {color.WHITE}By github.com/AzeemIdrisi
+
+            {color.RED}{version}{color.WHITE}            {color.WHITE}By kutty
 """
 
 banner3 = f"""
 
-        █▀█ █░█ █▀█ █▄░█ █▀▀ █▀ █▀█ █░░ █▀█ █ ▀█▀   █▀█ █▀█ █▀█
-        █▀▀ █▀█ █▄█ █░▀█ ██▄ ▄█ █▀▀ █▄▄ █▄█ █ ░█░   █▀▀ █▀▄ █▄█ 
+ ██▓███  ▓█████   ▄████  ▄▄▄        ██████  █    ██   ██████  ██▓███   ██▀███   ▒█████  
+▓██░  ██▒▓█   ▀  ██▒ ▀█▒▒████▄    ▒██    ▒  ██  ▓██▒▒██    ▒ ▓██░  ██▒▓██ ▒ ██▒▒██▒  ██▒
+▓██░ ██▓▒▒███   ▒██░▄▄▄░▒██  ▀█▄  ░ ▓██▄   ▓██  ▒██░░ ▓██▄   ▓██░ ██▓▒▓██ ░▄█ ▒▒██░  ██▒
+▒██▄█▓▒ ▒▒▓█  ▄ ░▓█  ██▓░██▄▄▄▄██   ▒   ██▒▓▓█  ░██░  ▒   ██▒▒██▄█▓▒ ▒▒██▀▀█▄  ▒██   ██░
+▒██▒ ░  ░░▒████▒░▒▓███▀▒ ▓█   ▓██▒▒██████▒▒▒▒█████▓ ▒██████▒▒▒██▒ ░  ░░██▓ ▒██▒░ ████▓▒░
+▒▓▒░ ░  ░░░ ▒░ ░ ░▒   ▒  ▒▒   ▓▒█░▒ ▒▓▒ ▒ ░░▒▓▒ ▒ ▒ ▒ ▒▓▒ ▒ ░▒▓▒░ ░  ░░ ▒▓ ░▒▓░░ ▒░▒░▒░ 
+░▒ ░      ░ ░  ░  ░   ░   ▒   ▒▒ ░░ ░▒  ░ ░░░▒░ ░ ░ ░ ░▒  ░ ░░▒ ░       ░▒ ░ ▒░  ░ ▒ ▒░ 
+░░          ░   ░ ░   ░   ░   ▒   ░  ░  ░   ░░░ ░ ░ ░  ░  ░  ░░         ░░   ░ ░ ░ ░ ▒  
+            ░  ░      ░       ░  ░      ░     ░           ░              ░         ░ ░  
+                                                          
 
 
-            {color.RED}{version}{color.WHITE}             {color.WHITE}By github.com/AzeemIdrisi
+
+            {color.RED}{version}{color.WHITE}             {color.WHITE}By kutty
 """
 
 banner4 = f"""
-    _________.__                           _________      .__         .__  __    __________                 
-    \______  \\  |__   ____   ____   ____  /   _____/_____ |  |   ____ |__|/  |_  \______   \_______  ____   
-    |     ___/  |  \ /  _ \ /    \_/ __ \ \_____  \\\____ \|  |  /  _ \|  \   __\  |     ___/\_  __ \/  _ \  
-    |    |   |   Y  (  <_> )   |  \  ___/ /        \  |_> >  |_(  <_> )  ||  |    |    |     |  | \(  <_> ) 
-    |____|   |___|  /\____/|___|  /\___  >_______  /   __/|____/\____/|__||__|    |____|     |__|   \____/
-                  \/            \/     \/        \/|__|                                                      
+ ███████████                                                                    ███████████                    
+░░███░░░░░███                                                                  ░░███░░░░░███                   
+ ░███    ░███  ██████   ███████  ██████    █████  █████ ████  █████             ░███    ░███ ████████   ██████ 
+ ░██████████  ███░░███ ███░░███ ░░░░░███  ███░░  ░░███ ░███  ███░░   ██████████ ░██████████ ░░███░░███ ███░░███
+ ░███░░░░░░  ░███████ ░███ ░███  ███████ ░░█████  ░███ ░███ ░░█████ ░░░░░░░░░░  ░███░░░░░░   ░███ ░░░ ░███ ░███
+ ░███        ░███░░░  ░███ ░███ ███░░███  ░░░░███ ░███ ░███  ░░░░███            ░███         ░███     ░███ ░███
+ █████       ░░██████ ░░███████░░████████ ██████  ░░████████ ██████             █████        █████    ░░██████ 
+░░░░░         ░░░░░░   ░░░░░███ ░░░░░░░░ ░░░░░░    ░░░░░░░░ ░░░░░░             ░░░░░        ░░░░░      ░░░░░░  
+                       ███ ░███                                                                                
+                      ░░██████                                                                                 
+                       ░░░░░░                                                                                  
 
 
-        {color.RED}{version}{color.WHITE}                             {color.WHITE}By github.com/AzeemIdrisi
+        {color.RED}{version}{color.WHITE}                             {color.WHITE}By kutty
 """
 banner5 = f"""
-       ___  __                 ____     __     _ __     ___         
-      / _ \/ /  ___  ___  ___ / __/__  / /__  (_) /_   / _ \_______ 
-     / ___/ _ \/ _ \/ _ \/ -_)\ \/ _ \/ / _ \/ / __/  / ___/ __/ _ \\
-    /_/  /_//_/\___/_//_/\__/___/ .__/_/\___/_/\__/  /_/  /_/  \___/
-                               /_/                                                                                                      
+ ____  ____  ___   __   ____  _  _  ____      ____  ____   __  
+(  _ \(  __)/ __) / _\ / ___)/ )( \/ ___) ___(  _ \(  _ \ /  \ 
+ ) __/ ) _)( (_ \/    \\___ \) \/ (\___ \(___)) __/ )   /(  O )
+(__)  (____)\___/\_/\_/(____/\____/(____/    (__)  (__\_) \__/ 
+      
 
-        {color.RED}{version}{color.WHITE}        {color.WHITE}By github.com/AzeemIdrisi
+  {color.RED}{version}{color.WHITE}        {color.WHITE}By kutty
 """
 
 banner6 = f"""
-        ____  __                    _____       __      _ __       ____           
-       / __ \/ /_  ____  ____  ___ / ___/____  / /___  (_) /_     / __ \_________ 
-      / /_/ / __ \/ __ \/ __ \/ _ \\\__ \/ __ \/ / __ \/ / __/    / /_/ / ___/ __ \\
-     / ____/ / / / /_/ / / / /  __/__/ / /_/ / / /_/ / / /_     / ____/ /  / /_/ /
-    /_/   /_/ /_/\____/_/ /_/\___/____/ .___/_/\____/_/\__/    /_/   /_/   \____/
-                                     /_/                                                                                                       
-    
-           {color.RED}{version}{color.WHITE}               {color.WHITE}By github.com/AzeemIdrisi
+ ____                                                          ____                 
+/\  _`\                                                       /\  _`\               
+\ \ \L\ \ __     __      __      ____  __  __    ____         \ \ \L\ \_ __   ___   
+ \ \ ,__/'__`\ /'_ `\  /'__`\   /',__\/\ \/\ \  /',__\  _______\ \ ,__/\`'__\/ __`\ 
+  \ \ \/\  __//\ \L\ \/\ \L\.\_/\__, `\ \ \_\ \/\__, `\/\______\\ \ \/\ \ \//\ \L\ \
+   \ \_\ \____\ \____ \ \__/.\_\/\____/\ \____/\/\____/\/______/ \ \_\ \ \_\\ \____/
+    \/_/\/____/\/___L\ \/__/\/_/\/___/  \/___/  \/___/            \/_/  \/_/ \/___/ 
+                 /\____/                                                            
+                 \_/__/                                                             
+
+
+           {color.RED}{version}{color.WHITE}               {color.WHITE}By kutty
 
 """
 
 banner10 = f"""
-     ____    __                              ____            ___               __        ____                        
-    /\  _`\ /\ \                            /\  _`\         /\_ \           __/\ \__    /\  _`\                      
-    \ \ \L\ \ \ \___     ___     ___      __\ \,\L\_\  _____\//\ \     ___ /\_\ \ ,_\   \ \ \L\ \_ __   ___          
-     \ \ ,__/\ \  _ `\  / __`\ /' _ `\  /'__`\/_\__ \ /\ '__`\\\ \ \   / __`\/\ \ \ \/    \ \ ,__/\`'__\/ __`\        
-      \ \ \/  \ \ \ \ \/\ \L\ \/\ \/\ \/\  __/ /\ \L\ \ \ \L\ \\\_\ \_/\ \L\ \ \ \ \ \_    \ \ \/\ \ \//\ \L\ \       
-       \ \_\   \ \_\ \_\ \____/\ \_\ \_\ \____\\\ `\____\ \ ,__//\____\ \____/\ \_\ \__\    \ \_\ \ \_\\\ \____/       
-        \/_/    \/_/\/_/\/___/  \/_/\/_/\/____/ \/_____/\ \ \/ \/____/\/___/  \/_/\/__/     \/_/  \/_/ \/___/      
-                                                         \ \_\                                                       
-                                                          \/_/                                              
 
-            {color.RED}{version}{color.WHITE}                                {color.WHITE}By github.com/AzeemIdrisi
+                                                                                   
+,------.                                                   ,------.                
+|  .--. ' ,---.  ,---.  ,--,--. ,---. ,--.,--. ,---.,-----.|  .--. ',--.--. ,---.  
+|  '--' || .-. :| .-. |' ,-.  |(  .-' |  ||  |(  .-''-----'|  '--' ||  .--'| .-. | 
+|  | --' \   --.' '-' '\ '-'  |.-'  `)'  ''  '.-'  `)      |  | --' |  |   ' '-' ' 
+`--'      `----'.`-  /  `--`--'`----'  `----' `----'       `--'     `--'    `---'  
+                `---'                                                              
+
+            {color.RED}{version}{color.WHITE}                                {color.WHITE}By kutty
 
 """
 
 banner11 = f"""
-    _____________                   ________       ______     __________       ________              
-    ___  __ \__  /_____________________  ___/__________  /________(_)_  /_      ___  __ \____________ 
-    __  /_/ /_  __ \  __ \_  __ \  _ \____ \___  __ \_  /_  __ \_  /_  __/      __  /_/ /_  ___/  __ \\
-    _  ____/_  / / / /_/ /  / / /  __/___/ /__  /_/ /  / / /_/ /  / / /_        _  ____/_  /   / /_/ /
-    /_/     /_/ /_/\____//_/ /_/\___//____/ _  .___//_/  \____//_/  \__/        /_/     /_/    \____/
-                                            /_/                                                      
+
+ _____                             _____         
+|  _  |___ ___ ___ ___ _ _ ___ ___|  _  |___ ___ 
+|   __| -_| . | .'|_ -| | |_ -|___|   __|  _| . |
+|__|  |___|_  |__,|___|___|___|   |__|  |_| |___|
+          |___|                                  
 
 
-            {color.RED}{version}{color.WHITE}                            {color.WHITE}By github.com/AzeemIdrisi
+            {color.RED}{version}{color.WHITE}                            {color.WHITE}By kutty
 
 """
 
 banner12 = f"""
+██████╗ ███████╗ ██████╗  █████╗ ███████╗██╗   ██╗███████╗      ██████╗ ██████╗  ██████╗ 
+██╔══██╗██╔════╝██╔════╝ ██╔══██╗██╔════╝██║   ██║██╔════╝      ██╔══██╗██╔══██╗██╔═══██╗
+██████╔╝█████╗  ██║  ███╗███████║███████╗██║   ██║███████╗█████╗██████╔╝██████╔╝██║   ██║
+██╔═══╝ ██╔══╝  ██║   ██║██╔══██║╚════██║██║   ██║╚════██║╚════╝██╔═══╝ ██╔══██╗██║   ██║
+██║     ███████╗╚██████╔╝██║  ██║███████║╚██████╔╝███████║      ██║     ██║  ██║╚██████╔╝
+╚═╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝      ╚═╝     ╚═╝  ╚═╝ ╚═════╝ 
+                                                                                         
 
-        ▒█▀▀█ █░░█ █▀▀█ █▀▀▄ █▀▀ ▒█▀▀▀█ █▀▀█ █░░ █▀▀█ ░▀░ ▀▀█▀▀ 　 ▒█▀▀█ █▀▀█ █▀▀█ 
-        ▒█▄▄█ █▀▀█ █░░█ █░░█ █▀▀ ░▀▀▀▄▄ █░░█ █░░ █░░█ ▀█▀ ░░█░░ 　 ▒█▄▄█ █▄▄▀ █░░█ 
-        ▒█░░░ ▀░░▀ ▀▀▀▀ ▀░░▀ ▀▀▀ ▒█▄▄▄█ █▀▀▀ ▀▀▀ ▀▀▀▀ ▀▀▀ ░░▀░░ 　 ▒█░░░ ▀░▀▀ ▀▀▀▀   
-
-
-            {color.RED}{version}{color.WHITE}                            {color.WHITE}By github.com/AzeemIdrisi
+            {color.RED}{version}{color.WHITE}                            {color.WHITE}By kutty
 
 """
 banner_list = [
@@ -220,5 +218,5 @@ keycode_menu = f"""
    {color.WHITE}10. {color.GREEN}Delete/Backspace
 """
 """
-Copyright © 2023 Mohd Azeem (github.com/AzeemIdrisi)
+Copyright © 2025 by kutty
 """
