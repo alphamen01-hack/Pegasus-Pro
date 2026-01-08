@@ -410,6 +410,12 @@ pkg install nmap
 **Kutty**  
 [@Kutty](https://kuttythedarkhacker.netlify.app/)
 
+<p align="left">
+  <a href="https://thedarkdevil.netlify.app/")// target="_blank">
+    <img src="https://img.shields.io/badge/Website-Visit-ff2d55?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
+
 
 **View**
 [@view About Us](https://thedarkdevil.netlify.app/)
