@@ -412,7 +412,7 @@ pkg install nmap
 
 <p align="left">
   <a href="https://kuttythedarkhacker.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Visit-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=black">
+    <img src="https://img.shields.io/badge/Website-About-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=black">
   </a>
   <br>
   <!-- Neon Green Website Button -->
