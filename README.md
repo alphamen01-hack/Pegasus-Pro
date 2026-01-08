@@ -108,6 +108,9 @@ The goal of this project is to make penetration testing and vulnerability assess
 * Stream Microphone Audio
 * Record Device Audio
 * Stream Device Audio
+
+## v.13
+
 * All Above Verion Used In v.13 Version 
 
 # Requirements  
@@ -407,18 +410,16 @@ pkg install nmap
 
 <img src="images/avatar.png" width="90" align="left" />
 
-**Kutty**  
-[@Kutty](https://kuttythedarkhacker.netlify.app/)
-
 <p align="left">
-  <a href="https://thedarkdevil.netlify.app/")// target="_blank">
-    <img src="https://img.shields.io/badge/Website-Visit-ff2d55?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://kuttythedarkhacker.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Visit-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=black">
+  </a>
+
+  <!-- Neon Green Website Button -->
+  <a href="https://thedarkdevil.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Visit-00ff6a?style=for-the-badge&logo=google-chrome&logoColor=black">
   </a>
 </p>
-
-
-**View**
-[@view About Us](https://thedarkdevil.netlify.app/)
 
 <br clear="left"/>
 
