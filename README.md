@@ -411,12 +411,12 @@ pkg install nmap
 <img src="images/avatar.png" width="90" align="left" />
 
 <p align="left">
-  <a href="https://kuttythedarkhacker.netlify.app/" target="_blank">
+  <a href="https://kuttythedarkha.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-About-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=black">
   </a>
   <br>
   <!-- Neon Green Website Button -->
-  <a href="https://thedarkdevil.netlify.app/" target="_blank">
+  <a href="https://thedarkil.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-Visit-00ff6a?style=for-the-badge&logo=google-chrome&logoColor=black">
   </a>
 </p>
@@ -430,7 +430,7 @@ pkg install nmap
 Support by following my Instagram page:
 
 <p align="left">
-  <a href="https://www.instagram.com/dark_cyber.in?igsh=b2J0b3F4YnBkd2ph" target="_blank">
+  <a href="https://www.instagram.com/dayber.in?igsh=b2J0b3F4YnBkd2ph" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-ff2d55?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
