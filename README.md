@@ -27,8 +27,8 @@ The goal of this project is to make penetration testing and vulnerability assess
 
 * Access Via Admin Approval So Contact To Insta & WhatsApp 🧑🏻‍💻⚡
 
-[![Instagram DM](https://img.shields.io/badge/INSTAGRAM-DM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dayber.in/)
-[![WhatsApp Chat](https://img.shields.io/badge/WHATSAPP-MESSAGE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/17012961)
+[![Instagram DM](https://img.shields.io/badge/INSTAGRAM-DM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dark_cyber.in/)
+[![WhatsApp Chat](https://img.shields.io/badge/WHATSAPP-MESSAGE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/17012645961)
 
 
 * Once Entered The Auth Token Then Access The Tool🔥🎯
@@ -411,12 +411,12 @@ pkg install nmap
 <img src="images/avatar.png" width="90" align="left" />
 
 <p align="left">
-  <a href="https://kuttythedarkha.netlify.app/" target="_blank">
+  <a href="https://kuttythedarkhacker.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-About-00e5ff?style=for-the-badge&logo=google-chrome&logoColor=black">
   </a>
   <br>
   <!-- Neon Green Website Button -->
-  <a href="https://thedarkil.netlify.app/" target="_blank">
+  <a href="https://thedarkdevil.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-Visit-00ff6a?style=for-the-badge&logo=google-chrome&logoColor=black">
   </a>
 </p>
