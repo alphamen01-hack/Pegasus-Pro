@@ -430,7 +430,7 @@ pkg install nmap
 Support by following my Instagram page:
 
 <p align="left">
-  <a href="https://www.instagram.com/dayber.in?igsh=b2J0b3F4YnBkd2ph" target="_blank">
+  <a href="https://www.instagram.com/dark_cyber.in?igsh=b2J0b3F4YnBkd2ph" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-ff2d55?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
