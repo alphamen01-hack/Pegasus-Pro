@@ -1,9 +1,9 @@
+<div align="center">
 <p align="center">
   <img src="docs/alphamen.png" alt="Logo_Green_text" width="400px" height="300">
 </p>
 <p align="center">
 
-<div align="center">
 
 <div align="center">
   
