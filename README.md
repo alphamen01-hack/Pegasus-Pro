@@ -1,8 +1,3 @@
-
-<p align="center">
-  <b>Cyber Security • Exploitation • Recon • Red Team</b>
-</p>
-
 <div align="center">
 <p align="center">
   <img src="docs/alphamen.png" alt="Logo_Green_text" width="400px" height="300">
